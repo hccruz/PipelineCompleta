@@ -1,7 +1,3 @@
-Segue um exemplo de **README.md** para o seu projeto, já estruturado e com todas as explicações:
-
----
-
 # Projeto de Coleta de Cotações — Jornada de Dados
 
 Este projeto faz parte da **Jornada de Dados** e tem como objetivo coletar, consolidar e salvar cotações em tempo real de **Bitcoin** e de **commodities** selecionadas, utilizando APIs públicas e a biblioteca `yfinance`.

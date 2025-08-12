@@ -25,7 +25,4 @@ df = pd.DataFrame([{
 
 print(df)
 
-# Salvar em CSV
-df.to_csv('cotacao_bitcoin.csv', index=False)
-
 print("✅ Cotação do Bitcoin salva em cotacao_bitcoin.csv")

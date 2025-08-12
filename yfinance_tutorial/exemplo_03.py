@@ -1,6 +1,5 @@
 # exemplo_04.py
 import yfinance as yf
-import pandas as pd
 from datetime import datetime
 
 ultimo_df = yf.Ticker('GC=F').history(period='1d', interval='1m')[['Close']].tail(1)
