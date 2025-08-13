@@ -1,0 +1,11 @@
+customer_id,customer_name,documento,segmento,pais,estado,cidade,created_at
+C001,Vargas - ME,10.978.326/0001-41,Financeiro,Brasil,PB,Ramos,2024-04-20 15:31:26.230140+00:00
+C002,Freitas Ltda.,67.138.945/0001-45,Indústria,Brasil,RR,Freitas,2024-03-18 06:47:09.169190+00:00
+C003,Ferreira e Filhos,32.546.017/0001-35,Varejo,Brasil,PR,Novais,2023-05-19 10:39:13.700547+00:00
+C004,Ribeiro Santos e Filhos,63.902.157/0001-22,Financeiro,Alemanha,RR,Aparecida,2024-02-17 10:04:22.934322+00:00
+C005,Lopes Cardoso S.A.,54.970.618/0001-03,Tecnologia,Brasil,SC,Leão de Camargo,2024-01-06 12:32:26.932766+00:00
+C006,Gonçalves,59.317.826/0001-21,Tecnologia,Estados Unidos,PE,Sousa,2024-03-02 15:33:06.629219+00:00
+C007,Novais,92.350.816/0001-63,Financeiro,Brasil,PE,Aragão do Galho,2023-03-26 00:50:06.573628+00:00
+C008,Rios Ltda.,68.029.451/0001-95,Financeiro,Brasil,PB,Sampaio dos Dourados,2023-08-18 05:32:00.166521+00:00
+C009,Ferreira Araújo Ltda.,80.749.612/0001-10,Varejo,Alemanha,MT,Vargas,2024-05-23 06:14:48.877824+00:00
+C010,das Neves,62.035.897/0001-46,Tecnologia,Brasil,GO,Dias de Lopes,2023-10-01 20:10:12.837187+00:00
