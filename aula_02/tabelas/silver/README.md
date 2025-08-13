@@ -1,5 +1,3 @@
-perfeito — aqui vai uma explicação clara, em “linguagem de negócio + técnica”, do **porquê** de cada tabela SILVER e do **que fazem** os comandos do seu script.
-
 # Por que existem essas tabelas SILVER?
 
 ## 1) `silver_sales_normalized` (vendas normalizadas)
