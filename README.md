@@ -92,7 +92,3 @@ Os dados coletados serão utilizados para:
 
 Este projeto faz parte da **Jornada de Dados**.
 Para mais informações, acesse: [www.suajornadadedados.com.br](http://www.suajornadadedados.com.br)
-
----
-
-Se quiser, posso já te gerar também um **diagrama visual** do fluxo do projeto para incluir no README e deixar mais profissional. Quer que eu crie?

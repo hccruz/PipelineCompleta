@@ -17,7 +17,7 @@ DATABASE_URL = f"postgresql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NA
 engine = create_engine(DATABASE_URL)
 
 # Pasta com os CSVs
-DATA_PATH = Path("data_bronze")
+DATA_PATH = Path("aula_02/data_bronze")
 
 def load_csvs_to_db():
     for csv_file in DATA_PATH.glob("*.csv"):
